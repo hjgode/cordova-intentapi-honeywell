@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/555082507/CordovaLib.iml" filepath="$PROJECT_DIR$/.idea/modules/555082507/CordovaLib.iml" group="android/CordovaLib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1891494477/android.iml" filepath="$PROJECT_DIR$/.idea/modules/1891494477/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="android/app" />
+    </modules>
+  </component>
+</project>
